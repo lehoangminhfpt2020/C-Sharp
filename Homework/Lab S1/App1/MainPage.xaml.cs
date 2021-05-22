@@ -29,14 +29,14 @@ namespace App1
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            string name = input1.Text;
+            string letterhead = input1.Text;
             string email = input2.Text;
-            TxtBlock.Text += name + "-" + email + "\n";
-        }
-
-        private void Button2_Click(object sender, RoutedEventArgs e)
-        {
-            TxtBlock.Text
+            string content = input3.Text;
+            TxtBlock.Text += "\n" +
+                "To:" + email + "\n"
+                + letterhead + "\n"
+                + "---------------------"+ "\n"
+                + content;
         }
     }
 }

@@ -30,13 +30,13 @@
     <AppXManifest Include="E:\learn\FPT\Ky3\1.WFP\buoi2\UWP\App1\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-05-22T11:54:14.888</Modified>
+      <Modified>2021-05-22T12:13:14.831</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\learn\FPT\Ky3\1.WFP\buoi2\UWP\App1\bin\x86\Debug\App1.exe">
       <PackagePath>entrypoint\App1.exe</PackagePath>
-      <Modified>2021-05-22T11:54:14.446</Modified>
+      <Modified>2021-05-22T12:13:14.470</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.11\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -86,15 +86,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\learn\FPT\Ky3\1.WFP\buoi2\UWP\App1\bin\x86\Debug\App1.xr.xml">
       <PackagePath>App1.xr.xml</PackagePath>
-      <Modified>2021-05-22T11:47:37.560</Modified>
+      <Modified>2021-05-22T12:08:57.844</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\learn\FPT\Ky3\1.WFP\buoi2\UWP\App1\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-05-22T11:54:14.397</Modified>
+      <Modified>2021-05-22T12:12:02.349</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\learn\FPT\Ky3\1.WFP\buoi2\UWP\App1\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-05-22T11:54:14.397</Modified>
+      <Modified>2021-05-22T12:12:02.349</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -106,7 +106,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\learn\FPT\Ky3\1.WFP\buoi2\UWP\App1\bin\x86\Debug\Core\App1.exe">
       <PackagePath>App1.exe</PackagePath>
-      <Modified>2021-05-22T11:54:14.885</Modified>
+      <Modified>2021-05-22T12:13:14.828</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
