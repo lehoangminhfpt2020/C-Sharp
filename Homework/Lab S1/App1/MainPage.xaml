@@ -13,7 +13,7 @@
             <TextBlock Text="Enter Your letterhead: "  RelativePanel.AlignHorizontalCenterWithPanel="True" Width="250" Height="40" Margin="0,30,0,0" />
             <TextBox x:Name="input1" Width="250" Height="40" RelativePanel.AlignHorizontalCenterWithPanel="True" Margin="0,50,0,0"  TextWrapping="Wrap"/>
             
-            <TextBlock Text="Enter Your Email: "  RelativePanel.AlignHorizontalCenterWithPanel="True" Width="250" Height="40" Margin="0,120,0,0" />
+            <TextBlock Text="Enter Email: "  RelativePanel.AlignHorizontalCenterWithPanel="True" Width="250" Height="40" Margin="0,120,0,0" />
             <TextBox x:Name="input2" Width="250" Height="40" RelativePanel.Below="input1" RelativePanel.AlignHorizontalCenterWithPanel="True" Margin="0,50,0,0"  TextWrapping="Wrap"/>
 
             <TextBlock Text="Your mail content: "  RelativePanel.AlignHorizontalCenterWithPanel="True" Width="250" Height="40" Margin="0,210,0,0" />
